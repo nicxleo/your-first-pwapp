@@ -1,6 +1,6 @@
 # Your First Progressive Web App Codelab
 
-These are the resource files needed for th
+These are the resource files needed for the
 [Your First Progressive Web App][codelab] codelab.
 
 In this codelab, you'll  build a weather web app using Progressive Web App
